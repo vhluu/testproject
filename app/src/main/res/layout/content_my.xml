@@ -10,8 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.android.testproject.MyActivity"
-    tools:showIn="@layout/activity_my"
-    android:background="#4a88d8">
+    tools:showIn="@layout/activity_my">
 
     <TextView
         android:layout_width="wrap_content"
